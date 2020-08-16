@@ -74,6 +74,7 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [-2980, -520, 64], "title" : "Xisuma's farming village", "icon" : "xisuma.png", "iconSize" : [24, 24]},
 				{"pos" : [-200, -650, 64], "title" : "Zedaph's Cave of Contraptions", "icon" : "zedaph.png", "iconSize" : [24, 24]},
 				{"pos" : [-325, -955, 64], "title" : "Zedaph's mini-gold course", "icon" : "zedaph.png", "iconSize" : [24, 24]},
+				{"pos" : [-1045, 134, 64], "title" : "Iskallman's office(headquarters)", "icon" : "iskall.png", "iconSize" : [24, 24]},
 			],
 		},
 	},
